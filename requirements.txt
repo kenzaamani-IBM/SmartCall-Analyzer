@@ -1,0 +1,8 @@
+openai
+autogen
+streamlit
+python-dotenv
+pandas
+azure-cognitiveservices-speech
+ffmpeg-python
+
